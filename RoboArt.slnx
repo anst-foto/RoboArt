@@ -6,5 +6,5 @@
   <Folder Name="/others/">
     <File Path=".editorconfig" />
   </Folder>
-  <Project Path="RodoArt.Core/RodoArt.Core.csproj" />
+  <Project Path="RoboArt.Core/RoboArt.Core.csproj" />
 </Solution>
