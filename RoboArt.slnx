@@ -5,6 +5,7 @@
   </Folder>
   <Folder Name="/others/">
     <File Path=".editorconfig" />
+    <File Path="README.md" />
   </Folder>
   <Project Path="RoboArt.Core.Test/RoboArt.Core.Test.csproj" />
   <Project Path="RoboArt.Core/RoboArt.Core.csproj" />
